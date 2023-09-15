@@ -3,7 +3,14 @@
 
 This is my `iThome鐵人賽` Day04 Daily writings for **Android Studio** advenced learning.
 
-This Article is for Dagger2 Basic Use on `Dagger2 version:"2.47"`
+This Article is for Dagger2 Using on `Dagger2 version:"2.47"`
+- My Version Specification：
+    - Android Studio version：**Android Studio Giraffe | 2022.3.1**
+    - Dagger2 version：**2.47**
+    - Gradle JDK version：**JetBrains Runtime version 17.0.6**
+    - Android Gradle Plugin version：**8.1.1**
+    - Gradle version：**8.0**
+    - Compile Sdk version：**33 (API33("Tiramisu";Android13.0))**
 ## Dependencies on Android Studio gradle
 - build.gradle (Module:app)
 ```gradle=
